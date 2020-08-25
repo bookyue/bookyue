@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **bookyue/bookyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is the place where I opensource stuff and cool things... (and assignments):rofl:
+
+- 🌱 I’m currently learning CS
+- 📫 How to reach me: [Email](mailto:sevenbookyue@gmail.com)
+
+![bookyue's github stats](https://github-readme-stats.vercel.app/api?username=bookyue&show_icons=true&hide_border=true)
